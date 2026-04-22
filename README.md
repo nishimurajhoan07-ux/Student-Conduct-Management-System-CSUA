@@ -2,6 +2,11 @@
 
 # Student Conduct Management System
 
+Title: STUDENT CONDUCT MANAGEMENT SYSTEM-CSU APARRI
+Developers:
+Salvador, Jhoan T.
+Paet, Mike Jayloyd A.
+Tejada, Alaiza Clear M.
 An enterprise-grade Laravel application for managing student conduct violations, disciplinary actions, and compliance reporting in educational institutions.
 
 ## Features
